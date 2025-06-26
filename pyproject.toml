@@ -1,9 +1,9 @@
 [project]
-name = "substrate"
+name = "pixi-substrate"
 version = "1.5.1"
 requires-python = ">=3.10"
 dependencies = [
-    "commitizen>=4.3.0",
+#     "commitizen>=4.3.0",  # pixi install global
     "copier>=9.4.1",
     "pre-commit>=4.1.0",
     "ruff>=0.9.3",
